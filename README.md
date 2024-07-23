@@ -9,8 +9,8 @@ Landind page do HDC HOST, uma página dedicada a fornecer informações sobre se
 
 ### ⚙️ Pré-requisitos
 
-O projeto pode ser incializado através do VScode por meio do Live Server (extensão do Visual Studio Code) 
-Ou para maior conforto, clique no link a seguir para abrir o projeto hospedado direto em seu navegador:
+O projeto pode ser incializado através do VScode por meio do Live Server (extensão do Visual Studio Code). 
+Ou para maior conforto, copie o link a seguir para abrir o projeto hospedado direto em seu navegador:
 
 ```
 https://marcosadrianoguedes.github.io/HDC-HOST/
